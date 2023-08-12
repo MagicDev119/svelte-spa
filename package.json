@@ -54,8 +54,7 @@
     "auto complete",
     "autosuggest",
     "auto suggest",
-    "typeahead",
-    "type ahead"
+    "typeahead"
   ],
   "files": [
     "src",
